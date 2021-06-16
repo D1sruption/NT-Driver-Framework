@@ -1,0 +1,7 @@
+﻿  TestDriver_UM.cpp
+N:\_Development Environment\Custom Driver\TestDriver_UM\KernelInterface.h(94,23): warning C4244: '=': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+N:\_Development Environment\Custom Driver\TestDriver_UM\KernelInterface.h(163,1): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+N:\_Development Environment\Custom Driver\TestDriver_UM\KernelInterface.h(163,1): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+N:\_Development Environment\Custom Driver\TestDriver_UM\TestDriver_UM.cpp(17,42): error C2664: 'char *strcpy(char *,const char *)': cannot convert argument 1 from 'LPTSTR' to 'char *'
+N:\_Development Environment\Custom Driver\TestDriver_UM\TestDriver_UM.cpp(17,12): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(130,1): message : see declaration of 'strcpy'

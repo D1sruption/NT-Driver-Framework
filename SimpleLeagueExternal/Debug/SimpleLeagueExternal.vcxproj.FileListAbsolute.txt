@@ -1,0 +1,2 @@
+C:\Users\fankhaaj\source\repos\SimpleLeagueExternal\Debug\SimpleLeagueExternal.exe
+C:\Users\fankhaaj\source\repos\SimpleLeagueExternal\Debug\SimpleLeagueExternal.pdb

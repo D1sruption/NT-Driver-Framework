@@ -1,0 +1,2 @@
+E:\_Development Environment\League of Legends\SimpleLeagueExternal\x64\Debug\SimpleLeagueExternal.exe
+E:\_Development Environment\League of Legends\SimpleLeagueExternal\x64\Debug\SimpleLeagueExternal.pdb

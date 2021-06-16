@@ -1,0 +1,5 @@
+﻿  SimpleLeagueExternal.cpp
+E:\_Development Environment\League of Legends\SimpleLeagueExternal\SimpleLeagueExternal.cpp(25,71): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+E:\_Development Environment\League of Legends\SimpleLeagueExternal\SimpleLeagueExternal.cpp(25,71): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+E:\_Development Environment\League of Legends\SimpleLeagueExternal\SimpleLeagueExternal.cpp(57,18): warning C4101: 'pName': unreferenced local variable
+  SimpleLeagueExternal.vcxproj -> E:\_Development Environment\League of Legends\SimpleLeagueExternal\x64\Debug\SimpleLeagueExternal.exe

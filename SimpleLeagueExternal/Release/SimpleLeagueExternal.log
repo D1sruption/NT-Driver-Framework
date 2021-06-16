@@ -1,0 +1,8 @@
+﻿  SimpleLeagueExternal.cpp
+D:\_Development Environment\League of Legends\SimpleLeagueExternal\SimpleLeagueExternal.cpp(57,18): warning C4101: 'pName': unreferenced local variable
+  Generating code
+  3 of 13 functions (23.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SimpleLeagueExternal.vcxproj -> D:\_Development Environment\League of Legends\SimpleLeagueExternal\Release\SimpleLeagueExternal.exe

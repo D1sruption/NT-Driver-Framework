@@ -1,0 +1,3 @@
+C:\Users\fankhaaj\source\repos\SimpleLeagueExternal\Release\SimpleLeagueExternal.exe
+D:\_Development Environment\League of Legends\SimpleLeagueExternal\Release\SimpleLeagueExternal.exe
+C:\Users\USER\Documents\SimpleLeagueExternal\Release\SimpleLeagueExternal.exe

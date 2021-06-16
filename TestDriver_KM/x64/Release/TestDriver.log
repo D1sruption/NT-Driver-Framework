@@ -1,0 +1,9 @@
+﻿  Building 'TestDriver_KM' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\TestDriver.inf
+  Stamping [Version] section with DriverVer=09/11/2020,9.51.29.188
+  TestDriver.c
+  TestDriver.vcxproj -> C:\Users\USER\Documents\Visual Studio Projects\TestDriver\x64\Release\TestDriver_KM.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\USER\Documents\Visual Studio Projects\TestDriver\x64\Release\TestDriver_KM.sys
+  
+  Driver is 'Universal'.

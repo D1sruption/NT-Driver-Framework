@@ -1,0 +1,10 @@
+﻿  TestDriver_UM.cpp
+C:\Users\fankhaaj\source\repos\TestDriver_UM\KeInterface.h(66,9): warning C4101: 'Return': unreferenced local variable
+C:\Users\fankhaaj\source\repos\TestDriver_UM\TestDriver_UM.cpp(17): message : see reference to function template instantiation 'type KeInterface::ReadProcessMemory<DWORD>(ULONG,ULONG,SIZE_T)' being compiled
+          with
+          [
+              type=DWORD
+          ]
+C:\Users\fankhaaj\source\repos\TestDriver_UM\KeInterface.h(66,17): warning C4101: 'Bytes': unreferenced local variable
+C:\Users\fankhaaj\source\repos\TestDriver_UM\KeInterface.h(145): warning C4715: 'KeInterface::GetBaseAddress': not all control paths return a value
+  TestDriver_UM.vcxproj -> C:\Users\fankhaaj\source\repos\TestDriver_UM\Debug\TestDriver_UM.exe
